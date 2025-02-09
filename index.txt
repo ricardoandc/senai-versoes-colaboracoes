@@ -1,9 +1,16 @@
 <!DOCTYPE html>
+ <HEAD>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=git, initial-scale=1.0">
+    <title>GIT VERSIONAMENTO</title>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=git, initial-scale=1.0">
     <title>VERSIONAMENTO</title>
+ main
 </head>
 <body>
     
